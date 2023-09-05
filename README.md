@@ -2,13 +2,14 @@
 
 ## 👋 Hi there!
 
-I'm Marco, a Senior Software Engineer with a passion for crafting scalable and effective solutions. I have hands-on experience in:
+I'm Marco, a Senior Software Engineer with a passion for crafting scalable and effective solutions. I have hands-on experience in (1 Heart = Weak, 5 Hearts = Proficient):
 
-- **C#** 💚
-- **React** 💙
-- **JavaScript** 💛
-- **SQL** 💜
-- **Angular** ❤️
+- **C#**         💚💚💚💚💚
+- **React**      💙💙💙
+- **JavaScript** 💛💛💛💛
+- **SQL**        💜💜💜💜
+- **Angular**    ❤️❤️❤️❤️
+- **TypeScript** 🤍🤍🤍🤍🤍
 
 ## 🚀 Projects
 
