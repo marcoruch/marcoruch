@@ -4,18 +4,13 @@
 
 I'm Marco, a Senior Software Engineer with a passion for crafting scalable and effective solutions. I have hands-on experience in:
 
-- **C#**         
-Experience: 💚💚💚💚💚
-- **React**         
-Experience: 💙💙💙
-- **JavaScript**         
-Experience: 💛💛💛💛
-- **SQL**         
-Experience: 💜💜💜💜
-- **Angular**         
-Experience: ❤️❤️❤️❤️
-- **TypeScript**         
-Experience: 🤍🤍🤍🤍🤍
+- **C#**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💚💚💚💚💚]
+- **React**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💙💙💙🖤🖤]
+- **JavaScript**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💛💛💛💛🖤]
+- **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💜💜💜💜🖤]
+- **Angular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❤️❤️❤️❤️❤️]
+- **TypeScript**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🤍🤍🤍🤍🤍]
+
 
 ## 🚀 Projects
 
