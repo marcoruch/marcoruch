@@ -1,8 +1,8 @@
 # Marco Ruch (`marcoruch`)
 
-## 👋 Hi there!
-
 I'm Marco, a Senior Software Engineer with a passion for crafting scalable and effective solutions. I have hands-on experience in:
+
+## 💻 Technologies used
 
 - **C#**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💚💚💚💚💚]
 - **Angular**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[❤️❤️❤️❤️❤️]
@@ -10,7 +10,6 @@ I'm Marco, a Senior Software Engineer with a passion for crafting scalable and e
 - **SQL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💜💜💜💜🖤]
 - **JavaScript**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💛💛💛💛🖤]
 - **React**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💙💙💙🖤🖤]
-
 
 ## 🚀 Projects
 
@@ -29,5 +28,4 @@ I'm the founder of Career Boards, a tool aimed at connecting job seekers with em
 Thanks for stopping by my profile! 😄
 
 Marco Ruch  
-Senior Software Engineer  
-Founder of Career Boards
+Senior Software Engineer
