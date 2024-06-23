@@ -11,10 +11,17 @@ I'm Marco, a Senior Software Engineer with a passion for crafting scalable and e
 - **JavaScript**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💛💛💛💛🖤]
 - **React**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[💙💙💙🖤🖤]
 
-## 🚀 Projects
+## 🚀 Projects (Private & School)
+
+### **Work Projects**
+To find out more about projects i used to work on at work, please look at my [Personal Website](https://marcoruch.ch).
 
 ### **Career Boards**
-I'm the founder of Career Boards, a tool aimed at connecting job seekers with employers in an efficient and cost-effective manner. The platform simplifies the hiring process and makes it easier for people to find their dream job.
+Career Boards is a tool aimed at connecting job seekers with employers in an efficient and cost-effective manner. The platform simplifies the hiring process and makes it easier for people to find their dream job.
+See technology example: [Technology Careerboard](https://technology.careerboards.ch)
+
+### **Mentor Matching**
+Mentor Matching was a tool built in relatively short time at FHNW. The overarching aim is to achieve gender diversity and equality in tech by facilitating 1:1 mentorships.
 
 ## 🌱 Interests
 
