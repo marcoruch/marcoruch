@@ -22,7 +22,7 @@ Mentor Matching was a tool built in relatively short time at FHNW without furthe
 See here: [Mentor Matching Application](https://mentor-matching.techface.ch/)
 
 ### **Kartetris**
-Kartetris is the ultimate 1v1 online Tetris showdown — with a Mario Kart twist! Race your opponent, unleash wild power-ups, and discover game-changing specials as you stack your way to victory.
+Kartetris is the ultimate 1v1 online Tetris showdown - with a Mario Kart twist! Race your opponent, unleash wild power-ups, and discover game-changing specials as you stack your way to victory.
 See here: [Kartetris Live](https://kartetris.onrender.com/)
 
 ## 🏢 Projects (Work)
